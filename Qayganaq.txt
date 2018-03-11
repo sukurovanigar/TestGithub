@@ -1,0 +1,128 @@
+1. Start
+2. Ayaqa dur
+3. Addim at sag ve sol ( 20 addim )
+4. metbexe teref get
+5. Soyuducunu tap
+6. Soyuducuya yaxinlas
+7. sag elini qaldir
+8. Soyuducunun qapisini tut
+9. Soyuducunun qapisini dart 
+10. Soyuducunun qapisini Burax
+11. elini asaqi sal 
+12. Yumurtani tap
+13. Elini qaldir
+14. Yumurtani gotur
+15. geri cekil ( 1 addim )
+16. Soyuducununun qapisina elini uzat
+17. Soyuducunun qapisini ort 
+18. Elini asaqi sal
+19. Masaya teref don
+20. 4 addim get
+21. elini qaldir
+22. Yumurtani masaya qoy
+23. Arxaya don 
+24. refi tap
+25. Refe teref get
+26. Elini refin qapisina uzat
+27. refi ac
+28. Yagi tap
+29. yaga elini uzat
+30, yagi gotur
+31. geri cekil
+32. refin qapisini tut
+33. refin qapisini ort
+34. geri don 
+35 masaya yaxinlas
+36 yagi masaya qoy
+37 geri don
+38 Asaqi refi tap
+39 refe teref get ( 4 addim)
+40 qapiiya elini uzat 
+41 qapini ac
+42 asaqi eyil
+43 tavani sec
+44 tavani gotur
+45 qalx
+46 geri cekil
+47 qapini ort
+48 geri don
+49 sobani tap
+50 sobaya teref addimla
+51 tavani sobaya burax
+52 kibrit qutusunu tap 
+53 elini uzat
+54 kibrit qutusunu gotur
+55 ikinci elini qaldir
+56 kibrit qutusunu ac 
+57 kibriti gotur
+58 Qutunu bagla 
+59 qutunu sol elinle tut 
+60 kibriti sag elinle tut
+61 kibriti qutunun quragina yaxinlasdir
+62 kibriti asagiya kimi surt
+63 qutunu yerine qoy
+64 yanan kibriti sobanin gozune yaxinlasdir
+65 sol elinle sobanin gozunun yandirma duymesini sec
+66 duymeni bas
+67 sobani yandir
+68 elleri geri cek 
+69 kibriti at
+70 tavaya elini uzat
+71 tavani gotur
+72 tavani sobanin yanan gozune qoy
+73 geri don 
+74 masaya teref get
+75 yaga elini uzat
+76 yagi tut
+77 yagi gotur
+78 geri don
+79 sobaya teref get
+80 ikinci elini qaldir
+81 yagin qapagini tut
+82 qapagi ac
+83 yagi tavaya teref apar
+84 yagi ey 
+85 yagi tok
+86 yagi qaldir  
+87 geri cekil
+88 qapagini bagla
+89 geri don 
+90 masaya teref get
+91 yagi masaya burax
+92 yumurtani gotur
+93 geri don
+94 sobaya teref get
+95 ikinci elini yumurtaya uzat
+96 yumurtani qir
+97 yumurtani tavaya bosalt 
+98 qabigi tulla
+99 2 deqiqe gozle
+100 sobani sondur
+101 geri don \
+102 refi tap
+103 refe teref get
+104 elini qaldir
+105 refin qapisini tut
+106 refin qapisini ac
+107 bosqabi tap
+108 bosqabi gotur
+109 cengeli tap
+110 cengeli gotur
+111 geri cekil 
+112 qapini tut
+113 qapini ort
+114 geri don
+115 sobani tap
+116 bosqabi sobanin uzerine qoy
+117 cengele tavaya yaxinlasdir
+118 qayganagi gotur
+119 qaba qoy
+120 bosaqbi gotur
+121 geri don 
+122 zali tap
+123 zala teref get
+124 masani  tap
+125 bosqabi ve cengeli masaya qoy
+126 eyles
+127 the end
+ 
